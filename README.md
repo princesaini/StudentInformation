@@ -1,3 +1,4 @@
+Open this project in Netbeans.
 Download MySQL connector for java and add it in project.
 Create a database named "studentinfo" in MySQL and inside that database create a table named "student" which contains following fields:
 RollNo (int)
